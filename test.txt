@@ -2,4 +2,4 @@
 second commit
 third commit 
 git tracks changes of files.
-
+git check changes
